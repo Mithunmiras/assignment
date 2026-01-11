@@ -36,7 +36,7 @@ h1, h2, h3 {
 
 # ---------------- HEADER ----------------
 st.title(" DA1-Contour-Based Object Analyzer")
-st.markdown("**By: 23MIA1064 - SALAI NIMALAN**")
+st.markdown("**By: 23MIA1165 - M MITHUN MIRAS**")
 st.divider()
 
 # ---------------- UPLOAD SECTION ----------------
